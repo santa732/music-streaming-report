@@ -24,4 +24,4 @@ jobs:
           pip install pandas requests
 
       - name: Run Script
-        run: python auto.py
+        run: python Auto.py
